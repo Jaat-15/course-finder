@@ -1,12 +1,21 @@
-# React + Vite
+# 🎓 Course Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Course Finder web app that helps users discover and explore various courses with ease. Built using **React** and **Tailwind CSS**, the application features clean UI, dynamic navigation, course filtering, and a dedicated course detail page.
 
-Currently, two official plugins are available:
+---
+link : "https://coursefinder-jaat.vercel.app/"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📄 View detailed information for each course
+- 🌙 Dark theme for a sleek, modern look
+- 🧭 Seamless navigation using React Router (Home, About, Contact)
+- ⚡ Fast and responsive design using Tailwind CSS
+- 🔗 (Optional) API/Backend integration with Node.js & MongoDB (planned/in progress)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS, React Router
+- **Version Control:** Git, GitHub
