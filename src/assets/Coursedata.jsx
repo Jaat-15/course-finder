@@ -3,7 +3,7 @@ export const courseData = [
   {
     id: "python",
     title: "Python Programming",
-    image: "/src/assets/python.webp",
+    image: "/python.webp",
     english: [
       {
         provider: "YouTube - Programming with Mosh",
@@ -42,7 +42,7 @@ export const courseData = [
   {
     id: "java",
     title: "Java Programming",
-    image: "/src/assets/java.jpg",
+    image: "/java.jpg",
     english: [
       {
         provider: "YouTube - Programming with Mosh",
@@ -81,7 +81,7 @@ export const courseData = [
   {
     id: "c++",
     title: "C++",
-    image: "/src/assets/c++.png",
+    image: "/c++.png",
     english: [
       {
         provider: "YouTube - Bro Code",
@@ -114,7 +114,7 @@ export const courseData = [
   {
     id: "web-development",
     title: "Web Development",
-    image: "/src/assets/web.jpg",
+    image: "/web.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -135,7 +135,7 @@ export const courseData = [
   {
     id: "data-structures",
     title: "DSA",
-    image: "/src/assets/dsa.png",
+    image: "/dsa.png",
     english: [
       {
         provider: "Coursera",
@@ -168,7 +168,7 @@ export const courseData = [
   {
     id: "javascript",
     title: "JavaScript",
-    image: "/src/assets/js.jpg",
+    image: "/js.jpg",
     english: [
       {
         provider: "CourseEra",
@@ -207,7 +207,7 @@ export const courseData = [
   {
     id: "react",
     title: "React",
-    image: "/src/assets/react.png",
+    image: "/react.png",
     english: [
       {
         provider: "YouTube - Bro Code",
@@ -234,7 +234,7 @@ export const courseData = [
   {
     id: "c",
     title: "C#",
-    image: "/src/assets/cshaft.png",
+    image: "/cshaft.png",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -255,7 +255,7 @@ export const courseData = [
   {
     id: "android-development",
     title: "Android Development",
-    image: "/src/assets/android.jpg",
+    image: "/android.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -276,7 +276,7 @@ export const courseData = [
   {
     id: "cloud-computing",
     title: "Cloud Computing",
-    image: "/src/assets/cloud.jpg",
+    image: "/cloud.jpg",
     english: [
       {
         provider: "YouTube - Intellipaat",
@@ -297,7 +297,7 @@ export const courseData = [
   {
     id: "sql",
     title: "SQL",
-    image: "/src/assets/sql.avif",
+    image: "/sql.avif",
     english: [
       {
         provider: "YouTube - Programming with Mosh",
@@ -318,7 +318,7 @@ export const courseData = [
   {
     id: "data-science",
     title: "Data science",
-    image: "/src/assets/data.jpg",
+    image: "/data.jpg",
     english: [
       {
         provider: "YouTube - edureka!",
@@ -339,7 +339,7 @@ export const courseData = [
   {
     id: "ethical-hacking",
     title: "Ethical Hacking",
-    image: "/src/assets/ethical.webp",
+    image: "/ethical.webp",
     english: [
       {
         provider: "YouTube - The Cyber Mentor",
@@ -360,7 +360,7 @@ export const courseData = [
   {
     id: "linux",
     title: "Linux",
-    image: "/src/assets/linux.jpg",
+    image: "/linux.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -381,7 +381,7 @@ export const courseData = [
   {
     id: "git-&-github",
     title: "Git & Github",
-    image: "/src/assets/git.jpg",
+    image: "/git.jpg",
     english: [
       {
         provider: "YouTube - JavaScript Mastery",
@@ -402,7 +402,7 @@ export const courseData = [
   {
     id: "typescript",
     title: "Typescript",
-    image: "/src/assets/typescript.jpg",
+    image: "/typescript.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -423,7 +423,7 @@ export const courseData = [
   {
     id: "go-(golang)",
     title: "GO (Golang)",
-    image: "/src/assets/go.png",
+    image: "/go.png",
     english: [
       {
         provider: "YouTube - Techworld with nana",
@@ -444,7 +444,7 @@ export const courseData = [
   {
     id: "ruby",
     title: "Ruby",
-    image: "/src/assets/ruby.jpeg",
+    image: "/ruby.jpeg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -465,7 +465,7 @@ export const courseData = [
   {
     id: "swift",
     title: "Swift",
-    image: "/src/assets/swift.jpg",
+    image: "/swift.jpg",
     english: [
       {
         provider: "YouTube - Sean Allen",
@@ -486,7 +486,7 @@ export const courseData = [
   {
     id: "kotlin",
     title: "Kotlin",
-    image: "/src/assets/kotlin.png",
+    image: "/kotlin.png",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -507,7 +507,7 @@ export const courseData = [
   {
     id: "rust",
     title: "Rust",
-    image: "/src/assets/rust.jpg",
+    image: "/rust.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -528,7 +528,7 @@ export const courseData = [
   {
     id: "php",
     title: "php",
-    image: "/src/assets/php.jpg",
+    image: "/php.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -549,7 +549,7 @@ export const courseData = [
   {
     id: "r",
     title: "R",
-    image: "/src/assets/r.jpg",
+    image: "/r.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",
@@ -570,7 +570,7 @@ export const courseData = [
   {
     id: "tailwind-css",
     title: "Tailwind CSS",
-    image: "/src/assets/tailwind.png",
+    image: "/tailwind.png",
     english: [
       {
         provider: "YouTube - Javascript Mastery",
@@ -591,7 +591,7 @@ export const courseData = [
   {
     id: "bootstrap",
     title: "Bootstrap",
-    image: "/src/assets/bootstrap.jpg",
+    image: "/bootstrap.jpg",
     english: [
       {
         provider: "YouTube - freeCodeCamp.org",

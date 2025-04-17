@@ -28,12 +28,12 @@ const Homepage = () => {
             {/* Course Cards */}
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
                 {[
-                    { title: "Python", image: "./src/assets/python.webp" },
-                    { title: "Java", image: "./src/assets/java.jpg" },
-                    { title: "C++", image: "./src/assets/c++.png" },
-                    { title: "Web Development", image: "./src/assets/web.jpg" },
-                    { title: "Data Structures", image: "./src/assets/dsa.png" },
-                    { title: "JavaScript", image: "./src/assets/js.jpg" },
+                    { title: "Python", image: "/python.webp" },
+                    { title: "Java", image: "/java.jpg" },
+                    { title: "C++", image: "/c++.png" },
+                    { title: "Web Development", image: "/web.jpg" },
+                    { title: "Data Structures", image: "/dsa.png" },
+                    { title: "JavaScript", image: "/js.jpg" },
                 ].map((course, index) => (
                     <div key={index} className="bg-[#1f1f1f] p-4 rounded-lg shadow-lg hover:scale-105 transition-transform">
                         <img src={course.image} alt={course.title} className="w-full h-60 object-cover rounded-xl mb-4" />
